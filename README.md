@@ -1,9 +1,3 @@
-# WhatsApp Customer Service Agent Using n8n
-
-An intelligent WhatsApp customer service agent powered by **n8n**, **Open-WA API**, and **Google Gemini**, enhanced with a custom Knowledge Base (Google Sheets) for accurate, context-aware automated responses.
-
----
-
 ## 📋 نظرة عامة على المشروع (Overview)
 
 هذا المشروع عبارة عن مساعد ذكي لخدمة العملاء والمبيعات عبر واتساب. يعتمد على **n8n** لإدارة سير العمل، و**Google Gemini** كوكيل ذكي يفهم استفسارات العملاء، مع ربطه بـ **Google Sheets** كقاعدة معرفة داخلية تحتوي على تفاصيل المنتجات وسياسات المتجر لضمان ردود دقيقة وموثوقة دون أي تخمين.
