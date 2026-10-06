@@ -15,7 +15,7 @@
 ## ⚙️ خطوة التشغيل والإعداد (Installation Steps)
 
 ### 1. استيراد ملف الـ Workflow
-1. قم بتحميل ملف الـ JSON الخاص بالـ Workflow من هذا المستودع (`workflow.json`).
+1. قم بتحميل ملف الـ JSON الخاص بالـ Workflow من هذا المستودع (`.whatsApp-Agent 1.json`).
 2. افتح منصة **n8n**، أنشئ Workflow جديد، ثم قم باستيراد (Import) الملف بداخلها.
 
 ### 2. تشغيل وإعداد Open-WA API عبر Docker
